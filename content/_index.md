@@ -12,6 +12,14 @@ no_header = true
     <a class="suggested" href="https://github.com/backups1der/ametrine-starter-template">Template repository →</a>
     <a href="https://codeberg.org/daudix/ametrine">Theme repository →</a>
   </div>
+
+> [!NOTE]
+> if you want to preview your site/blog in the terminal,
+> make sure to get Zola 0.22.1 cause the newer version
+> removed the important things for this theme to work.
+> 
+> If you got a version older/newer than Zola 0.22.1, then
+> update/downgrade Zola.
   
   [Ametrine](https://en.wikipedia.org/wiki/Ametrine) is a "one of a kind" [Zola](https://www.getzola.org) theme made specifically for personal websites and blogs. It provides good defaults and easy configuration, while being somewhat flexible on demand. Its design is unique and made with great care and attention to details, it changes from time to time, and the development pace is rather rapid.
 
