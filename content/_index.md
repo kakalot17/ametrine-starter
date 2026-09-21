@@ -13,7 +13,7 @@ no_header = true
     <a href="https://codeberg.org/daudix/ametrine">Theme repository →</a>
   </div>
 
-> [!NOTE]
+> [!NOTE] 
 > if you want to preview your site/blog in the terminal,
 > make sure to get Zola 0.22.1 cause the newer version
 > removed the important things for this theme to work.
